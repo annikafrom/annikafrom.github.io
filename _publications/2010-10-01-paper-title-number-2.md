@@ -1,14 +1,10 @@
 ---
-title: "Paper Title Number 2"
+title: "Partner support behaviors and relationship quality in interracial and intraracial Black romantic relationships"
 collection: publications
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
-paperurl: 'https://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/2024-From-et-al
+date: 2024-06-24
+venue: 'Personal Relationships'
+paperurl: 'https://doi.org/10.1111/pere.12562'
+citation: 'From, A., Luerssen, A., & Gordon, A. M. (2023). Both overwhelmed or in it together? Similarity in COVID-19-related stress and romantic relationship quality. Social and Personality Psychology Compass, 17(8), e12789. https://doi.org/10.1111/spc3.12789'
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
