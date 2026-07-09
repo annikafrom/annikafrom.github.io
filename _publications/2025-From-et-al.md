@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2025-From-et-al
 date: 2025-06-09
 venue: 'Journal of Social and Personal Relationships'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
+paperurl: 'https://doi.org/10.1177/02654075251349720'
 citation: 'From, A., Diamond, E. S., Kafaee, N., Reynaga, M., Edelstein, R. S., & Gordon, A. M.(2025). Does similarity matter for romantic relationships? A scoping review. <i>Journal of Social and Personal Relationships, 42</i>10, 2780-2802, https://doi.org/10.1177/02654075251349720'
 ---
 
