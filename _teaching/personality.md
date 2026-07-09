@@ -9,8 +9,8 @@ layout: single
 excerpt: ""
 ---
 
-##Course Description
+## Course Description
 This course is an introduction to the study and science of personality - consistencies in people's thoughts, feelings, and behavior over time and across situations. The focus is on current empirical research and modern theories of personality.  
 
-##Semesters Taught  
+## Semesters Taught  
 Winter 2021, Fall 2021
