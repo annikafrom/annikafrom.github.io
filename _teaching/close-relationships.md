@@ -9,6 +9,8 @@ layout: single
 excerpt: ""
 ---
 
-Instructor of Record: Dr. Amie Gordon
-8/2022 – 12/2022
-•	Graded and provided feedback for weekly written assignments for 140 undergraduate students.
+## Course Description  
+The goal is to introduce students to some of the most influential theories and ideas that have shaped the field of close relationships, as well as some of the more interesting and novel methods used by close relationships researchers. General topics include theory and methods of relationships, attraction and dating, attachment, social cognition, relationships and health, sexuality, cultural differences, stress and social support, conflict and communication, thriving in relationships, and breaking up.
+
+## Semesters Taught
+Fall 2022
