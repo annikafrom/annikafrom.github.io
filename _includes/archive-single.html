@@ -40,11 +40,7 @@
 
 {% if post.collection == 'teaching' %}
   {% if post.type or post.venue or post.date %}
-    <p>
-      {% if post.type %}{{ post.type }}{% endif %}
-      {% if post.venue %}{% if post.type %}, {% endif %}<i>{{ post.venue }}</i>{% endif %}
-      {% if post.date %}{% if post.type or post.venue %}, {% endif %}{{ post.date | date: "%Y" }}{% endif %}
-    </p>
+    <p>{% if post.type %}{{ post.type | strip }}{% endif %}{% if post.venue %}{% if post.type %}, {% endif %}<i>{{ post.venue | strip }}</i>{% endif %}{% if post.date %}{% if post.type or post.venue %}, {% endif %}{{ post.date | date: "%Y" }}{% endif %}</p>
   {% endif %}
 
 {% elsif post.collection == 'publications' %}
