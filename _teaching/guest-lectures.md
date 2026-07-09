@@ -8,7 +8,8 @@ hide_metadata: true
 ---
 
 ## Anthropology of the Body
-“Artificially intelligent companions,” <i>University of Michigan, Anthropology Department</i>, Fall 2025
+“Artificially intelligent companions,” <i>University of Michigan, Anthropology Department</i>, Fall 2025  
+
 “Artificially intelligent companions,” <i>University of Michigan, Anthropology Department</i>, Fall 2024
 
 ## Close Relationships
