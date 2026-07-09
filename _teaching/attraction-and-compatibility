@@ -2,8 +2,10 @@
 title: "Romantic Attraction and Compatibility"
 collection: teaching
 type: "Instructor of Record"
-permalink: /teaching/attraction-and-compatibility
+permalink: /teaching/attraction-and-compatibility/
 venue: "University of Michigan, Psychology Department"
 date: 2024-01-01
-link: /files/romantic-attraction-syllabus.pdf
+layout: single
 ---
+
+[Syllabus](/files/romantic-attraction-syllabus.pdf)
