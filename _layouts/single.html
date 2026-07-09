@@ -36,11 +36,7 @@ layout: default
         
 {% if page.collection == 'teaching' %}
   {% if page.type or page.venue or page.date %}
-    <p>
-      {% if page.type %}{{ page.type }}{% endif %}
-      {% if page.venue %}{% if page.type %}, {% endif %}<i>{{ page.venue }}</i>{% endif %}
-      {% if page.date %}{% if page.type or page.venue %}, {% endif %}{{ page.date | date: "%Y" }}{% endif %}
-    </p>
+    <p>{% if page.type %}{{ page.type | strip }}{% endif %}{% if page.venue %}{% if page.type %}, {% endif %}<i>{{ page.venue | strip }}</i>{% endif %}{% if page.date %}{% if page.type or page.venue %}, {% endif %}{{ page.date | date: "%Y" }}{% endif %}</p>
   {% endif %}
 
 {% elsif page.collection == 'publications' %}
