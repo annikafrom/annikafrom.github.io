@@ -5,4 +5,5 @@ type: "Graduate Student Instructor"
 permalink: /teaching/close-relationships
 venue: "University of Michigan, Psychology Department"
 date: 2022-01-01
+layout: single
 ---
