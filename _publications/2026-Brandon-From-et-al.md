@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2026-Brandon-From-et-al
 date: 2026-04-28
 venue: 'Human Nature'
-paperurl: 'https://doi.org/10/1111/spc3.12789'
+paperurl: 'https://doi.org/10.1007/s12110-026-09520-5'
 citation: 'Brandon, R., From, A., Reynaga, M., Devine, H., Gordon, A. M., & Edelstein, R. S. (2026). Testosterone changes in couples in response to a caregiving task with an infant simulator. <i>Human Nature</i>. https://doi.org/10.1007/s12110-026-09520-5.'
 ---
 
