@@ -45,10 +45,7 @@
 
 {% elsif post.collection == 'publications' %}
   {% if post.venue or post.date %}
-    <p>
-      {% if post.venue %}Published in <i>{{ post.venue }}</i>{% endif %}
-      {% if post.date %}{% if post.venue %}, {% endif %}{{ post.date | date: "%Y" }}{% endif %}
-    </p>
+    <p>{% if post.venue %}Published in <i>{{ post.venue | strip }}</i>{% endif %}{% if post.date %}{% if post.venue %}, {% endif %}{{ post.date | date: "%Y" }}{% endif %}</p>
   {% endif %}
 
 {% elsif post.date %}
