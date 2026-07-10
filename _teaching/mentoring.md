@@ -5,6 +5,7 @@ permalink: /teaching/mentoring/
 layout: single
 excerpt: ""
 hide_metadata: true
+sort_order: 7
 ---
 
 I am deeply committed to mentoring and have personally recruited, trained, and mentored over thirty research assistants, including supervising four honors theses. Additionally, I have served as a mentor through the following programs:
