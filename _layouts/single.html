@@ -41,10 +41,7 @@ layout: default
 
 {% elsif page.collection == 'publications' %}
   {% if page.venue or page.date %}
-    <p>
-      {% if page.venue %}Published in <i>{{ page.venue }}</i>{% endif %}
-      {% if page.date %}{% if page.venue %}, {% endif %}{{ page.date | date: "%Y" }}{% endif %}
-    </p>
+    <p>{% if page.venue %}Published in <i>{{ page.venue | strip }}</i>{% endif %}{% if page.date %}{% if page.venue %}, {% endif %}{{ page.date | date: "%Y" }}{% endif %}</p>
   {% endif %}
 
 {% elsif page.date %}
