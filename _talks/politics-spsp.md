@@ -5,6 +5,6 @@ type: "Blog"
 permalink: /talks/politics-spsp/
 venue: "Character & Context Blog"
 date: 2024-11-06
+venue: "SPSP"
 link: https://spsp.org/news/character-and-context-blog/luciani-from-gordon-republican-democrat-relationship-survival
-hide_metadata: true
 ---
