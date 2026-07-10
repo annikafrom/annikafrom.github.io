@@ -6,6 +6,7 @@ permalink: /talks/revel/
 venue: "Revel Dating App at University of Michigan"
 date: 2025-06-26
 location: "Ann Arbor, MI, USA"
+excerpt: ""
 ---
 
 I was a core founding member of the research-based dating app, Revel, was the graduate student lead on the original grant, and regularly analyzed data and wrote blog posts to communicate findings to users. 
