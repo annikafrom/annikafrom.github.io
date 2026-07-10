@@ -5,6 +5,7 @@ permalink: /teaching/guest-lectures/
 layout: single
 excerpt: ""
 hide_metadata: true
+sort_order: 6
 ---
 
 ## Anthropology of the Body
