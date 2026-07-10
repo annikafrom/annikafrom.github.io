@@ -4,7 +4,7 @@ collection: talks
 type: "Blog"
 permalink: /talks/revel/
 venue: "Revel Dating App at University of Michigan"
-date: 06/26/2025
+date: 2025-06-26
 location: "Ann Arbor, MI, USA"
 ---
 
