@@ -7,6 +7,7 @@ venue: "University of Michigan, Psychology Department"
 date: 2024-01-01
 layout: single
 excerpt: ""
+sort_order: 1
 ---
 
 ## Course Description  
